@@ -13,3 +13,6 @@
 
 ### Câu 27 trang 5
 ![49C3CCBA-8A9C-4732-86E2-D415C6EDD6CC](https://github.com/studyinvietnam/class12/assets/29000195/b71ed5db-51fd-4915-a0d7-6581032324ec)
+### Câu 53 - 54 trang 4
+![321C76B1-D25C-48D4-9D69-72B6C766DEE0](https://github.com/studyinvietnam/class12/assets/29000195/f264572a-b023-4685-92c8-b0a7f03f8267)
+
