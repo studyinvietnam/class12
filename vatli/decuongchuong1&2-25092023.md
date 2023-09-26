@@ -11,6 +11,10 @@
 
 
 
+
+
+
+# Đáp án
 ### Câu 27 trang 5
 ![49C3CCBA-8A9C-4732-86E2-D415C6EDD6CC](https://github.com/studyinvietnam/class12/assets/29000195/b71ed5db-51fd-4915-a0d7-6581032324ec)
 ### Câu 53 - 54 trang 4
