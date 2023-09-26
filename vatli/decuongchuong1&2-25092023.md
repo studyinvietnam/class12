@@ -4,3 +4,12 @@
 ![B5DB9EAB-F8CC-4D76-9AE7-F3E76DCCB213](https://github.com/studyinvietnam/class12/assets/29000195/babb4514-c5e1-4d49-97f8-19e772a948d3)
 ![119EF24C-BD79-4782-908F-3DE4E14E1C9D](https://github.com/studyinvietnam/class12/assets/29000195/9846649e-b2d3-4280-9b38-092ff175072e)
 ![3D5C3D0D-A226-4FD2-A185-752685A716A5](https://github.com/studyinvietnam/class12/assets/29000195/18d8544b-80ab-4b2f-ad2e-7b0edf44bef0)
+
+
+
+
+
+
+
+### Câu 27 trang 5
+![49C3CCBA-8A9C-4732-86E2-D415C6EDD6CC](https://github.com/studyinvietnam/class12/assets/29000195/b71ed5db-51fd-4915-a0d7-6581032324ec)
