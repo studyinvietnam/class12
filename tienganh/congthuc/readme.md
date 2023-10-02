@@ -10,4 +10,10 @@
 ## B. to
 ## C. with
 ## D. from
-### think of sth: suy nghĩ về việc gì đó
+### think about/of sth: suy nghĩ về việc gì đó
+# I work hard .......... help, my family.
+## A. so as to
+## B. in oder to
+## C. in oder that
+## D. A and B
+### so as to/in order to => cả hai cụm trên đều đi với động từ nguyên mẫu, chỉ mục đích, (để làm gì đó)
