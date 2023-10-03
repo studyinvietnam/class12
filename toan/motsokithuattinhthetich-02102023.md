@@ -3,5 +3,7 @@
 
 
 # Đáp án
+### Câu 1
+![0B47A04F-A7F3-4DF3-9BE7-724B1953CBD9](https://github.com/studyinvietnam/class12/assets/29000195/80a5fe40-bf57-45bd-8d07-6948597c38fb)
 ### Câu 3
 ![6BA397C9-D184-4928-BB43-90B23E82AFC3](https://github.com/studyinvietnam/class12/assets/29000195/d34ce91b-e746-46de-a658-66d48c01cf86)
