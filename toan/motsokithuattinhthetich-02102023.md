@@ -10,6 +10,7 @@
 ### Câu 3
 ![6BA397C9-D184-4928-BB43-90B23E82AFC3](https://github.com/studyinvietnam/class12/assets/29000195/d34ce91b-e746-46de-a658-66d48c01cf86)
 ### Câu 4
+![095106D0-A3A6-4DB9-AABD-1D73406D4DCA](https://github.com/studyinvietnam/class12/assets/29000195/e2b62eb6-4d2b-4989-ad7f-946f155493d8)
 ![721E643A-5BDA-410D-A143-FBEDB3DDB6D0](https://github.com/studyinvietnam/class12/assets/29000195/700f8792-fd6b-4110-8670-93112294c05c)
 ### Câu 26
 ![3CE53C4D-9492-4C5E-BB35-C34893ACCEC1](https://github.com/studyinvietnam/class12/assets/29000195/1ca77060-f60a-4bcd-9ad3-e5c76081c6f9)
