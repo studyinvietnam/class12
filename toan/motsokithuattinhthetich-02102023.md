@@ -9,3 +9,6 @@
 ![B8721FC0-5205-4222-84DC-7FD8F1FE80D9](https://github.com/studyinvietnam/class12/assets/29000195/53be2f26-1497-4c96-8db9-9b8529d54bdd)
 ### Câu 3
 ![6BA397C9-D184-4928-BB43-90B23E82AFC3](https://github.com/studyinvietnam/class12/assets/29000195/d34ce91b-e746-46de-a658-66d48c01cf86)
+### Câu 4
+![721E643A-5BDA-410D-A143-FBEDB3DDB6D0](https://github.com/studyinvietnam/class12/assets/29000195/700f8792-fd6b-4110-8670-93112294c05c)
+
