@@ -1,4 +1,5 @@
 II. Thì hiện tại tiếp diễn:
+
 	1.	Cách dùng: _ dùng để diễn tả sự việc, hành động đang xảy ra vào thời điểm nói (thời điểm hiện tại)
 eg: We (are studying) English now.
 _ thường đi với (while - trong khi)
@@ -9,7 +10,8 @@ _ diễn tả sự thay đổi (thường đi với get /gần bằng/ become = 
 eg: Phú Sơn is becoming more and more beautiful.
 _ diễn tả hành động, sự việc có tính chất tạm thời.
 eg: Kiên usually goes to school by bike, but today he is walking to school.
-	2.	Dấu hiệu 
+	
+ 2.	Dấu hiệu 
 _ now (bây giờ), right now (ngay bây giờ), at the moment (thời điểm này, vào lúc này) /gần bằng/ at this time /gần bằng/ at present.
 _ sau các cụm từ cảm thán (!): look!, listen!, be quite sss!, ....
 _ các câu tình huống: +What are you doing?
