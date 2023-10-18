@@ -1,6 +1,6 @@
 II. Thì hiện tại tiếp diễn:
 
-	1.	Cách dùng: _ dùng để diễn tả sự việc, hành động đang xảy ra vào thời điểm nói (thời điểm hiện tại)
+1. Cách dùng: _ dùng để diễn tả sự việc, hành động đang xảy ra vào thời điểm nói (thời điểm hiện tại)
 eg: We (are studying) English now.
 _ thường đi với (while - trong khi)
 ex: While I (am talking), you (are writing).
@@ -17,7 +17,8 @@ _ sau các cụm từ cảm thán (!): look!, listen!, be quite sss!, ....
 _ các câu tình huống: +What are you doing?
 +Where is your father?
 ......
-	3.	Cấu tạo:
+
+3.	Cấu tạo:
 (+) S + tobe + V-ing + O + .....
 (-) S + tobe not + V-ing + O + ...
 (?) (Wh - How) + tobe + S + V-ing + O .... ?
@@ -27,15 +28,19 @@ _ Nếu động từ tận cùng là "ee" thì ta thêm ing bình thường (đ�
 _ Nếu động từ tận cùng là "ie" thì ta chuyển "ie" thành "y" rồi thêm "ing". eg: lie -> lying
 _ Nếu động từ tận cùng là 1 âm tiết có 1 nguyên âm đứng giữa hai phụ âm thì ta phải gấp đôi phụ âm cuối rồi thêm "ing". eg: put -> putting
 Lưu ý: /ea/t - /ea/ting; v/i/s/i/t - v/i/s/i/ting
+
 III. Thì quá khứ đơn:
-	1.	Cách dùng:
+
+1.	Cách dùng:
 _ dùng để diễn tả hành động đã xảy ra cà chấm dứt trong quá khứ.
 eg: + We play/ed/ tennis YESTERDAY.
 + He /went/ (quá khứ của "go") to Ha Noi LAST WEEK.
 _ diễn tả một thói quen và đã chấm dứt trong quá khứ. eg: I usually /swam/ in the river (when I was small).
 _ diễn tả hành động, sự việc kế tiếp nhau trong quá khứ. Eg: Last night, Kien /had/ dinner, /did/ his homework, played games and /went/ to bed.
-	2.	Dấu hiệu: Yesterday, last week, last month, ...., ago (cách đây, trước đây), in + thời gian trong quá khứ (in 2020), in the past (trong quá khứ)... eg: When I was a child
-	3.	Cấu tạo 
+
+2.	Dấu hiệu: Yesterday, last week, last month, ...., ago (cách đây, trước đây), in + thời gian trong quá khứ (in 2020), in the past (trong quá khứ)... eg: When I was a child
+
+3.	Cấu tạo 
 a) với tobe ở thì quá khứ:
 + I, She, He, It - was - was not = wasn't
 + You, We, They - were - were not = weren't
@@ -48,12 +53,14 @@ eg: (+) She played games last night.
 (-) She didn't play games last night.
 (?) Did she play games last night?
 Yes, she did / No, she didn't
-	4.	Cách thêm "ed":
+
+4.	Cách thêm "ed":
 _ thêm "ed" vào sau động từ thường có quy tắc. Eg: play -> played
 _ nếu động từ thường có quy tắc và tận cùng động từ có "e" ta chỉ thêm đuôi "d". Eg: live -> lived
 _ nếu động từ tận cùng là y (tương tự như "s,es"). Eg: study -> sutudies      play -> played
 _ nếu động từ có 1 âm tiết có 1 nguyên âm đứng giữa 2 phụ âm ta nhân đôi phụ âm cuối rồi thêm "ed". Eg: fit -> fitting
-	5.	Phát âm "ed":
+
+5.	Phát âm "ed":
 a) "ed" được phát âm là /id/ khi đứng sau các động từ tận cùng là: t, te, d, de (st là một phụ âm). Eg: fitted /id/
 b) "ed" được phát âm là /t/ khi đứng sau các âm: f, k, p, ss, x, ce, sh, ch (laugh, cough)
 c) "ed" được phát âm là /d/ - còn lại và nguyên âm
