@@ -92,3 +92,7 @@ Note:
 • khi *gh là âm câm thì -ed phát âm là /d/ như ploughed, ... 
 
 • Nguyên âm - S = FD thì -ed thường được phát âm là /d/ như praised, chased, raised ....
+
+
+
+Phần ngoại lệ: Có một chữ có -ed tận cùng được phát âm là /əd/. Chữ đó là hundred /'hʌndrəd/
