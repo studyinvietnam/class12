@@ -18,7 +18,7 @@ eg: Will you help me with my maths?
 
 _ Diễn tả 1 lời hứa (thường đi với I promise, ...)
 
-eg: I will love tou forever.
+eg: I will love you forever.
 
 b) Dấu hiệu: tomorrow, next ...., in the future, soon = sớm/chẳng bao lâu nữa, in + thời gian tương lai (in 2022), When + S + tương lai (When I grow up ...)
 
