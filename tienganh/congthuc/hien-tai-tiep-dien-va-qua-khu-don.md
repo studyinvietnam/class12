@@ -113,7 +113,7 @@ b) "ed" được phát âm là /t/ khi đứng sau các âm: f, k, p, ss, x, ce,
 
 c) "ed" được phát âm là /d/ - còn lại và nguyên âm
 
-	•	Các trường hợp còn lại của đuôi "ed":
+* Các trường hợp còn lại của đuôi "ed":
 	1.	Aged /id/: cao tuổi
 	2.	Blessed /id/: thần thánh, thiêng liêng 
 	3.	Crooked /id/: cong, oằn, vặn vẹo 
